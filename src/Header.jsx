@@ -5,15 +5,16 @@ function Header(){
     return(
 
         <header>
-            <h1>Hello Retsuden</h1>
+            <h1>CJ</h1>
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
+                    <ul><a href="#">Home</a></ul>
+                    <ul><a href="#">About</a></ul>
                     <li><a href="#">Contact</a></li>
                     <li><a href="#">Services</a></li>
                 </ul>
             </nav>
+            <hr></hr>
         </header>
     );
     
